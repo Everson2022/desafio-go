@@ -3,3 +3,6 @@ Baixe a imagem
 
 Execute a imagem
 > docker run --rm everson019/golang:latest
+
+Docker Hub
+> https://hub.docker.com/r/everson019/golang
